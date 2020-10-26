@@ -7,7 +7,6 @@ Window=Window1;Window1.xojo_window;&h0000000055E91005;&h0000000000000000;false
 MenuBar=MenuBar1;MenuBar1.xojo_menu;&h00000000381B25F9;&h0000000000000000;false
 FileTypeSet=FileTypes1;FileTypes1.xojo_filetypeset;&h00000000606B821C;&h0000000000000000;false
 BuildSteps=Build Automation;Build Automation.xojo_code;&h000000003244C186;&h0000000000000000;false
-Folder=Folder1;Folder1;&h0000000057D45DA0;&h0000000000000000;false
 Class=apmint;apmint_module/apmint.xojo_code;&h0000000015BE37FF;&h0000000062FF0FFF;false
 Module=apmint_module;apmint_module.xojo_code;&h0000000062FF0FFF;&h0000000000000000;false
 DefaultWindow=Window1
