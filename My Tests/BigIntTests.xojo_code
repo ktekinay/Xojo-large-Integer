@@ -18,6 +18,9 @@ Inherits TestGroup
 		  bi = new BigInt_MTC( kMaxInt64 )
 		  bi.Add 1
 		  Assert.AreEqual "9223372036854775808", bi.ToString
+		  bi.Add 10000
+		  Assert.AreEqual "9223372036854785808", bi.ToString
+		  
 		End Sub
 	#tag EndMethod
 
